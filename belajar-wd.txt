@@ -2,5 +2,5 @@ Daftar Isi
 - Dasar HTML
 - Dasar CSS
 - Dasar Jquery
-- Mengenal Bootstrap
-- Membuat Template menggunakan Bootstrap
+- Upload File Project
+- Belajar Git dan Github
